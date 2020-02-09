@@ -1,0 +1,5 @@
+name: CosmicFly
+version: ${project.version}
+main: me.puyodead1.cosmicfly.CosmicFly
+depend: [Essentials]
+authors: [Puyodead1]
